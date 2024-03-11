@@ -32,11 +32,13 @@ Just for a sneak-peek - this is how the temperature infos about MVHR look for me
  - [ ] Add support for DS18x20 sensors for temperature measurement
  - [ ] Add OTG support
  - [ ] Add MQTT Interface
+ - [ ] Add Humidity measurement
  - [ ] Maybe? Add Web Interface
  - [ ] Maybe? Add CO (Carbon-Monoxide) level measurement 
 ## Hardware
  - [x] Add schematics
  - [x] Add support for OneWire sensors
+ - [ ] Add Humidity measurement sensors
  - [ ] Maybe? Add relay output to control high flow request
  - [ ] Maybe? Add analog-out (0-10V) to control flow 
  - [ ] Design the PCB

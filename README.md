@@ -27,6 +27,7 @@ Just for a sneak-peek - this is how the temperature infos about MVHR look for me
 ## Software
  - [x] Read and process keyboard status
  - [x] Read and process display messages from MVHR
+ - [ ] Add independent 5VDC power source - the integrated PSU cannot power ESP32 due to high current draw
  - [ ] Test keyboard command insertion
  - [ ] Test display hijacking -> sending custom messages
  - [ ] Add support for DS18x20 sensors for temperature measurement
